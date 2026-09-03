@@ -1,6 +1,6 @@
 # Hola, soy Roberto López
 
-<img align="right" src="https://i.pinimg.com/originals/a9/fb/d4/a9fbd437bf2255bf60b6bff1fabf4bed.gif" width="180" alt="Cat">
+<img align="right" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" width="180" alt="Pixel cat coding">
 
 Soy desarrollador de software en República Dominicana. Me gusta construir aplicaciones web completas y entender cómo funciona cada parte del proyecto, desde la base de datos y el backend hasta la interfaz.
 
