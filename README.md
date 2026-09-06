@@ -1,34 +1,90 @@
-# Hola, soy Roberto López
+<div align="center">
 
-<img align="right" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" width="180" alt="Pixel cat coding">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Roberto%20López&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20República%20Dominicana&descAlignY=58&descSize=18"/>
 
-Soy desarrollador de software en República Dominicana. Me gusta construir aplicaciones web completas y entender cómo funciona cada parte del proyecto, desde la base de datos y el backend hasta la interfaz.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=2563EB&size=20&center=true&vCenter=true&width=600&lines=Node.js+%2B+PostgreSQL+%2B+JavaScript;Construyendo+aplicaciones+full-stack;Del+esquema+de+base+de+datos+a+la+interfaz" alt="typing"/>
 
-Actualmente trabajo principalmente con JavaScript, Node.js y PostgreSQL, mientras continúo desarrollando proyectos y aprendiendo nuevas tecnologías.
+<br/>
 
-## Tecnologías
+[![Email](https://img.shields.io/badge/-robertoalg.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertoalg.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robertoantoniolopez.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/-RobertoAntonioLopez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoAntonioLopez)
 
-* **Backend:** Node.js, Express
-* **Bases de datos:** PostgreSQL, SQL
-* **Frontend:** JavaScript, HTML, CSS
-* **Herramientas:** Git, GitHub, Docker
-* **Otros:** REST APIs, JWT, autenticación, pruebas de integración y GitHub Actions
+</div>
 
-## Proyectos
+<br/>
 
-### [Tackle](https://github.com/RobertoAntonioLopez/tackle)
+## Sobre mí
 
-Aplicación full-stack para gestionar tickets de soporte IT. Incluye una API REST con operaciones CRUD, validación en el servidor, PostgreSQL y pruebas de integración.
+Construyo aplicaciones web completas y me interesa entender cada capa del proyecto: base de datos, backend e interfaz. Trabajo principalmente con **JavaScript**, **Node.js** y **PostgreSQL**, y continúo desarrollando proyectos mientras profundizo en nuevas tecnologías.
 
-### [Ayuda a tu País](https://github.com/RobertoAntonioLopez/ayuda-a-tu-pais)
+## Stack técnico
 
-Plataforma para reportar y dar seguimiento a problemas de una comunidad. Cuenta con autenticación JWT, diferentes roles de usuario, subida de imágenes y CI con GitHub Actions.
+<div align="center">
 
-### [Portfolio](https://github.com/RobertoAntonioLopez/portfolio)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-Mi portafolio personal, construido con HTML, CSS y JavaScript.
+</div>
 
-## Contacto
+## Proyectos destacados
 
-**Portafolio:** https://robertoantoniolopez.github.io/portfolio/
-**Email:** [robertoalg.dev@gmail.com](mailto:robertoalg.dev@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 [Tackle](https://github.com/RobertoAntonioLopez/tackle)
+Aplicación full-stack para gestionar tickets de soporte IT.
+
+- API REST con operaciones CRUD
+- Validación en el servidor
+- PostgreSQL + pruebas de integración
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [Ayuda a tu País](https://github.com/RobertoAntonioLopez/ayuda-a-tu-pais)
+Plataforma para reportar y dar seguimiento a problemas de una comunidad.
+
+- Autenticación JWT + roles de usuario
+- Subida de imágenes
+- CI con GitHub Actions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio](https://github.com/RobertoAntonioLopez/portfolio)
+Portafolio personal, construido con HTML, CSS y JavaScript.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+## Ahora mismo
+
+```bash
+$ whoami
+> Roberto López — Full Stack Developer
+
+$ status
+> Construyendo proyectos con Node.js + PostgreSQL
+> Profundizando en arquitectura backend y bases de datos
+> Abierto a oportunidades y colaboraciones
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
