@@ -1,90 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Roberto%20López&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20República%20Dominicana&descAlignY=58&descSize=18"/>
+# Hola, soy Roberto López
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=2563EB&size=20&center=true&vCenter=true&width=600&lines=Node.js+%2B+PostgreSQL+%2B+JavaScript;Construyendo+aplicaciones+full-stack;Del+esquema+de+base+de+datos+a+la+interfaz" alt="typing"/>
+### Desarrollador Full Stack · República Dominicana
 
-<br/>
+Construyo aplicaciones web completas, desde el diseño de la base de datos y la API hasta una interfaz clara y responsive.
 
-[![Email](https://img.shields.io/badge/-robertoalg.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertoalg.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robertoantoniolopez.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/-RobertoAntonioLopez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoAntonioLopez)
+[Portfolio](https://robertoantoniolopez.github.io/portfolio/) · [GitHub](https://github.com/RobertoAntonioLopez) · [Email](mailto:robertoalg.dev@gmail.com)
 
 </div>
-
-<br/>
 
 ## Sobre mí
 
-Construyo aplicaciones web completas y me interesa entender cada capa del proyecto: base de datos, backend e interfaz. Trabajo principalmente con **JavaScript**, **Node.js** y **PostgreSQL**, y continúo desarrollando proyectos mientras profundizo en nuevas tecnologías.
+Soy desarrollador Full Stack con interés especial en backend, bases de datos y creación de productos útiles.
 
-## Stack técnico
+Trabajo principalmente con JavaScript, Node.js y PostgreSQL. En cada proyecto intento ir más allá de una interfaz funcional: me importa organizar bien los datos, validar la información, manejar errores, escribir pruebas y documentar las decisiones técnicas.
 
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
+Actualmente continúo desarrollando proyectos propios y profundizando en arquitectura backend y bases de datos.
 
 ## Proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [Apagómetro](https://github.com/RobertoAntonioLopez/apagometro)
 
-### 🎫 [Tackle](https://github.com/RobertoAntonioLopez/tackle)
-Aplicación full-stack para gestionar tickets de soporte IT.
+Plataforma comunitaria para consultar y reportar apagones en sectores de la República Dominicana.
 
-- API REST con operaciones CRUD
-- Validación en el servidor
-- PostgreSQL + pruebas de integración
+- Mapa interactivo centrado en República Dominicana.
+- Reportes de apagones y restablecimientos.
+- Actualizaciones en tiempo real con Socket.IO.
+- API REST construida con Node.js y Express.
+- Persistencia de datos con SQLite.
+- Validación, limitación de reportes y pruebas automatizadas.
+- Interfaz responsive y accesible desarrollada con JavaScript, HTML y CSS.
 
-</td>
-<td width="50%" valign="top">
+**Tecnologías:** Node.js, Express, SQLite, Socket.IO, Leaflet, JavaScript, HTML y CSS.
 
-### 🤝 [Ayuda a tu País](https://github.com/RobertoAntonioLopez/ayuda-a-tu-pais)
-Plataforma para reportar y dar seguimiento a problemas de una comunidad.
+---
 
-- Autenticación JWT + roles de usuario
-- Subida de imágenes
-- CI con GitHub Actions
+### [Tackle](https://github.com/RobertoAntonioLopez/tackle)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Aplicación full stack para administrar tickets de soporte técnico y dar seguimiento a su estado.
 
-### 🌐 [Portfolio](https://github.com/RobertoAntonioLopez/portfolio)
-Portafolio personal, construido con HTML, CSS y JavaScript.
+- API REST con operaciones CRUD.
+- Validación de información en el servidor.
+- Persistencia con PostgreSQL.
+- Pruebas de integración.
 
-</td>
-<td width="50%" valign="top">
+**Tecnologías:** Node.js, Express, PostgreSQL y JavaScript.
 
-</td>
-</tr>
-</table>
+---
 
-## Ahora mismo
+### [Ayuda a tu País](https://github.com/RobertoAntonioLopez/ayuda-a-tu-pais)
 
-```bash
-$ whoami
-> Roberto López — Full Stack Developer
+Plataforma para reportar problemas de una comunidad y dar seguimiento a su resolución.
 
-$ status
-> Construyendo proyectos con Node.js + PostgreSQL
-> Profundizando en arquitectura backend y bases de datos
-> Abierto a oportunidades y colaboraciones
-```
+- Autenticación con JWT.
+- Roles y permisos de usuario.
+- Subida de imágenes.
+- Automatización con GitHub Actions.
 
-<br/>
+**Tecnologías:** Node.js, Express, PostgreSQL, JWT y JavaScript.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+---
+
+### [Portafolio personal](https://github.com/RobertoAntonioLopez/portfolio)
+
+Sitio web donde presento mis proyectos, habilidades y evolución como desarrollador.
+
+- Diseño responsive.
+- Interacciones con JavaScript.
+- Publicación mediante GitHub Pages.
+
+**Tecnologías:** HTML, CSS y JavaScript.
+
+## Tecnologías
+
+**Backend**
+
+- Node.js
+- Express
+- APIs REST
+- Autenticación con JWT
+
+**Bases de datos**
+
+- PostgreSQL
+- SQLite
+- Modelado y consultas SQL
+
+**Frontend**
+
+- JavaScript
+- HTML
+- CSS
+- Diseño responsive
+
+**Herramientas**
+
+- Git y GitHub
+- Docker
+- GitHub Actions
+- Pruebas automatizadas
+
+## En qué estoy trabajando
+
+- Construyendo proyectos full stack orientados a problemas reales.
+- Mejorando mis conocimientos de arquitectura backend.
+- Profundizando en PostgreSQL, pruebas y despliegue.
+- Abierto a oportunidades profesionales y colaboraciones.
+
+## Contacto
+
+- **Email:** [robertoalg.dev@gmail.com](mailto:robertoalg.dev@gmail.com)
+- **Portafolio:** [robertoantoniolopez.github.io/portfolio](https://robertoantoniolopez.github.io/portfolio/)
+- **GitHub:** [github.com/RobertoAntonioLopez](https://github.com/RobertoAntonioLopez)
+
+---
+
+<div align="center">
+
+Gracias por visitar mi perfil.
+
+</div>
