@@ -1,24 +1,22 @@
-Actualicé el README con **Postula como proyecto principal** y su demo publicada. Mantengo el enlace actual del portafolio hasta que lo migremos a Workers.
-
 <div align="center">
 
 # Hola, soy Roberto López
 
-### Desarrollador Full Stack · República Dominicana
+### Desarrollador de software · República Dominicana
 
-Construyo aplicaciones web con JavaScript, Node.js y bases de datos SQL, desde la API hasta una interfaz clara y responsive.
+Desarrollo aplicaciones web con JavaScript, Node.js y PostgreSQL, desde la API y los datos hasta una interfaz responsive.
 
-[Portafolio](https://robertoantoniolopez.github.io/portfolio/) · [GitHub](https://github.com/RobertoAntonioLopez) · [Email](mailto:robertoalg.dev@gmail.com)
+[Portafolio](https://portafolio.roberto-antonio-lopez.workers.dev/) · [GitHub](https://github.com/RobertoAntonioLopez) · [Email](mailto:robertoalg.dev@gmail.com)
 
 </div>
 
 ## Sobre mí
 
-Soy desarrollador Full Stack de República Dominicana, con especial interés en backend, bases de datos y aplicaciones que resuelvan problemas cotidianos.
+Soy desarrollador de software con interés en backend, bases de datos y aplicaciones que resuelvan problemas cotidianos.
 
 Trabajo principalmente con JavaScript, Node.js, Express y PostgreSQL. En mis proyectos practico la organización del código, la validación de datos, el manejo de errores, las pruebas y el despliegue.
 
-Actualmente busco una oportunidad de pasantía como desarrollador de software para aportar, aprender de un equipo y seguir creciendo.
+**Busco una oportunidad de pasantía en desarrollo de software** para aportar, aprender de un equipo y seguir creciendo.
 
 ## Ultimo proyecto
 
@@ -26,32 +24,30 @@ Actualmente busco una oportunidad de pasantía como desarrollador de software pa
 
 Aplicación full stack para organizar una búsqueda de empleo, dar seguimiento a las postulaciones y consultar la próxima entrevista.
 
-**[Ver aplicación en vivo](https://postula.roberto-antonio-lopez.workers.dev)**
+**[Ver demo](https://postula.roberto-antonio-lopez.workers.dev/) · [Ver código](https://github.com/RobertoAntonioLopez/postula)**
 
 - Registro, edición y eliminación de postulaciones.
 - Búsqueda por empresa o puesto y filtros por etapa.
 - Estados de pendiente, entrevista por agendar, entrevista, oferta y rechazado.
 - Resumen de postulaciones y próxima entrevista con fecha y hora.
-- API REST con Express y validación de datos en el servidor.
-- Persistencia en PostgreSQL alojado en Neon y consultas SQL parametrizadas.
-- Interfaz responsive con HTML, CSS Flexbox y JavaScript.
+- API REST con Express y validación en el servidor.
+- PostgreSQL en Neon con consultas SQL parametrizadas.
+- Interfaz responsive con CSS Flexbox y JavaScript.
 - Pruebas de la API y despliegue en Cloudflare Workers.
 
 **Tecnologías:** JavaScript, Node.js, Express, PostgreSQL, Neon, HTML, CSS Flexbox y Cloudflare Workers.
 
-La versión publicada es una demo compartida, sin autenticación. El código separa las rutas, las validaciones y las consultas a la base de datos.
+El código separa las rutas, las validaciones y el acceso a datos. La versión publicada es una demo compartida, sin autenticación.
 
-## Otros proyectos destacados
+## Otros proyectos
 
 ### [Apagómetro](https://github.com/RobertoAntonioLopez/apagometro)
 
 Plataforma comunitaria para consultar y reportar apagones en sectores de la República Dominicana.
 
-- Mapa interactivo centrado en República Dominicana.
-- Reportes de apagones y restablecimientos.
+- Mapa interactivo y reportes de apagones y restablecimientos.
 - Actualizaciones en tiempo real con Socket.IO.
-- API REST construida con Node.js y Express.
-- Persistencia de datos con SQLite.
+- API REST con persistencia en SQLite.
 - Validación, limitación de reportes y pruebas automatizadas.
 - Interfaz responsive y accesible.
 
@@ -85,45 +81,39 @@ Plataforma para reportar problemas de una comunidad y dar seguimiento a su resol
 
 ---
 
-### [Portafolio personal](https://github.com/RobertoAntonioLopez/portfolio)
+### Portafolio personal
 
-Sitio web donde presento mis proyectos, habilidades y evolución como desarrollador.
+Sitio donde presento mis proyectos, habilidades y experiencia de aprendizaje.
 
-- Diseño responsive.
-- Interacciones con JavaScript.
-- Publicación mediante GitHub Pages.
+**[Visitar portafolio](https://portafolio.roberto-antonio-lopez.workers.dev/) · [Ver código](https://github.com/RobertoAntonioLopez/portfolio)**
 
-**[Visitar portafolio](https://robertoantoniolopez.github.io/portfolio/)**
+- Diseño responsive con Flexbox y tipografía Roboto.
+- Modo claro y oscuro con preferencia guardada.
+- Contenido en español e inglés.
+- Proyectos con enlaces a sus demos y repositorios.
+- Despliegue en Cloudflare Workers.
 
-**Tecnologías:** HTML, CSS y JavaScript.
+**Tecnologías:** HTML, CSS, JavaScript y Cloudflare Workers.
 
 ## Tecnologías
 
-| Área | Tecnologías |
+| Área | Tecnologías y prácticas |
 | --- | --- |
 | Backend | Node.js, Express, APIs REST y JWT |
-| Bases de datos | PostgreSQL, Neon, SQLite y SQL |
+| Bases de datos | PostgreSQL, Neon, SQLite y consultas SQL |
 | Frontend | JavaScript, HTML, CSS y Flexbox |
-| Herramientas y despliegue | Git, GitHub, Cloudflare Workers, Docker y GitHub Actions |
+| Herramientas | Git, GitHub, Docker y GitHub Actions |
+| Despliegue | Cloudflare Workers |
 | Calidad | Validación de datos, manejo de errores y pruebas automatizadas |
 
 ## En qué estoy trabajando
 
-- Desarrollando y desplegando aplicaciones full stack.
 - Profundizando en PostgreSQL y arquitectura backend.
-- Mejorando la cobertura de pruebas y la organización de mis proyectos.
-- Preparándome para mi primera oportunidad como pasante de desarrollo de software.
+- Mejorando las pruebas y la organización de mis proyectos.
+- Desarrollando y desplegando aplicaciones full stack.
 
 ## Contacto
 
 - **Email:** [robertoalg.dev@gmail.com](mailto:robertoalg.dev@gmail.com)
-- **Portafolio:** [robertoantoniolopez.github.io/portfolio](https://robertoantoniolopez.github.io/portfolio/)
-- **GitHub:** [github.com/RobertoAntonioLopez](https://github.com/RobertoAntonioLopez)
-
----
-
-<div align="center">
-
-Gracias por visitar mi perfil.
-
-</div>
+- **Portafolio:** [portafolio.roberto-antonio-lopez.workers.dev](https://portafolio.roberto-antonio-lopez.workers.dev/)
+- **GitHub:** [RobertoAntonioLopez](https://github.com/RobertoAntonioLopez)
