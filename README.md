@@ -1,24 +1,47 @@
+Actualicé el README con **Postula como proyecto principal** y su demo publicada. Mantengo el enlace actual del portafolio hasta que lo migremos a Workers.
+
 <div align="center">
 
 # Hola, soy Roberto López
 
 ### Desarrollador Full Stack · República Dominicana
 
-Construyo aplicaciones web completas, desde el diseño de la base de datos y la API hasta una interfaz clara y responsive.
+Construyo aplicaciones web con JavaScript, Node.js y bases de datos SQL, desde la API hasta una interfaz clara y responsive.
 
-[Portfolio](https://robertoantoniolopez.github.io/portfolio/) · [GitHub](https://github.com/RobertoAntonioLopez) · [Email](mailto:robertoalg.dev@gmail.com)
+[Portafolio](https://robertoantoniolopez.github.io/portfolio/) · [GitHub](https://github.com/RobertoAntonioLopez) · [Email](mailto:robertoalg.dev@gmail.com)
 
 </div>
 
 ## Sobre mí
 
-Soy desarrollador Full Stack con interés especial en backend, bases de datos y creación de productos útiles.
+Soy desarrollador Full Stack de República Dominicana, con especial interés en backend, bases de datos y aplicaciones que resuelvan problemas cotidianos.
 
-Trabajo principalmente con JavaScript, Node.js y PostgreSQL. En cada proyecto intento ir más allá de una interfaz funcional: me importa organizar bien los datos, validar la información, manejar errores, escribir pruebas y documentar las decisiones técnicas.
+Trabajo principalmente con JavaScript, Node.js, Express y PostgreSQL. En mis proyectos practico la organización del código, la validación de datos, el manejo de errores, las pruebas y el despliegue.
 
-Actualmente continúo desarrollando proyectos propios y profundizando en arquitectura backend y bases de datos.
+Actualmente busco una oportunidad de pasantía como desarrollador de software para aportar, aprender de un equipo y seguir creciendo.
 
-## Proyectos destacados
+## Ultimo proyecto
+
+### Postula — Gestor de postulaciones laborales
+
+Aplicación full stack para organizar una búsqueda de empleo, dar seguimiento a las postulaciones y consultar la próxima entrevista.
+
+**[Ver aplicación en vivo](https://postula.roberto-antonio-lopez.workers.dev)**
+
+- Registro, edición y eliminación de postulaciones.
+- Búsqueda por empresa o puesto y filtros por etapa.
+- Estados de pendiente, entrevista por agendar, entrevista, oferta y rechazado.
+- Resumen de postulaciones y próxima entrevista con fecha y hora.
+- API REST con Express y validación de datos en el servidor.
+- Persistencia en PostgreSQL alojado en Neon y consultas SQL parametrizadas.
+- Interfaz responsive con HTML, CSS Flexbox y JavaScript.
+- Pruebas de la API y despliegue en Cloudflare Workers.
+
+**Tecnologías:** JavaScript, Node.js, Express, PostgreSQL, Neon, HTML, CSS Flexbox y Cloudflare Workers.
+
+La versión publicada es una demo compartida, sin autenticación. El código separa las rutas, las validaciones y las consultas a la base de datos.
+
+## Otros proyectos destacados
 
 ### [Apagómetro](https://github.com/RobertoAntonioLopez/apagometro)
 
@@ -30,7 +53,7 @@ Plataforma comunitaria para consultar y reportar apagones en sectores de la Rep�
 - API REST construida con Node.js y Express.
 - Persistencia de datos con SQLite.
 - Validación, limitación de reportes y pruebas automatizadas.
-- Interfaz responsive y accesible desarrollada con JavaScript, HTML y CSS.
+- Interfaz responsive y accesible.
 
 **Tecnologías:** Node.js, Express, SQLite, Socket.IO, Leaflet, JavaScript, HTML y CSS.
 
@@ -70,43 +93,26 @@ Sitio web donde presento mis proyectos, habilidades y evolución como desarrolla
 - Interacciones con JavaScript.
 - Publicación mediante GitHub Pages.
 
+**[Visitar portafolio](https://robertoantoniolopez.github.io/portfolio/)**
+
 **Tecnologías:** HTML, CSS y JavaScript.
 
 ## Tecnologías
 
-**Backend**
-
-- Node.js
-- Express
-- APIs REST
-- Autenticación con JWT
-
-**Bases de datos**
-
-- PostgreSQL
-- SQLite
-- Modelado y consultas SQL
-
-**Frontend**
-
-- JavaScript
-- HTML
-- CSS
-- Diseño responsive
-
-**Herramientas**
-
-- Git y GitHub
-- Docker
-- GitHub Actions
-- Pruebas automatizadas
+| Área | Tecnologías |
+| --- | --- |
+| Backend | Node.js, Express, APIs REST y JWT |
+| Bases de datos | PostgreSQL, Neon, SQLite y SQL |
+| Frontend | JavaScript, HTML, CSS y Flexbox |
+| Herramientas y despliegue | Git, GitHub, Cloudflare Workers, Docker y GitHub Actions |
+| Calidad | Validación de datos, manejo de errores y pruebas automatizadas |
 
 ## En qué estoy trabajando
 
-- Construyendo proyectos full stack orientados a problemas reales.
-- Mejorando mis conocimientos de arquitectura backend.
-- Profundizando en PostgreSQL, pruebas y despliegue.
-- Abierto a oportunidades profesionales y colaboraciones.
+- Desarrollando y desplegando aplicaciones full stack.
+- Profundizando en PostgreSQL y arquitectura backend.
+- Mejorando la cobertura de pruebas y la organización de mis proyectos.
+- Preparándome para mi primera oportunidad como pasante de desarrollo de software.
 
 ## Contacto
 
